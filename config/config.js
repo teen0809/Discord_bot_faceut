@@ -1,0 +1,12 @@
+export const DB_HOST = "sql6.freesqldatabase.com";
+export const DB_USERNAME = "sql6516168";
+export const DB_DATABASE_NAME = "sql6516168";
+export const DB_PASSWORD = "Zu53jJrBBi";
+export const DISCORD_TOKEN = "MTAxNDA4NDUyNDY4ODI4NTcxNw.GMjU5T.akOGUV12rF53tzxYFFifDsVayxgSZnA1U1Mt8g";
+export const BOT_ID = "1014084524688285717";
+export const CHANNEL_Id = "1015139277711081512";
+export const MNEMONIC = "neck fence ivory sleep alcohol junior adjust enhance make snap version umbrella";
+export const CHAIN_ID = "uni-3";
+export const ICD_URL = "https://lcd.uni.juno.deuslabs.fi";
+export const CW20CONTRACT = "juno1wan9em2ntec77ygyycm7ays7gg0ezzut8cpwjy3e7mvk7nyscmlsdklrtr";
+export const TRANSFER_AMOUNT = 10000000;
